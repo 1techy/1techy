@@ -1,4 +1,5 @@
-# hi 	:EMOJICODE: :bowtie:
+# hi 
+:EMOJICODE: :bowtie:
 currently learning python based machine learning algorithms
 - [ ] employed
 > discord: 7techy
