@@ -1,5 +1,7 @@
 ## hi
-
+currently learning python based machine learning algorithms
+- [ ] employed
+> discord: 7techy
 <!--
 **1techy/1techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
