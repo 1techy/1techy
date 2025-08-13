@@ -1,5 +1,5 @@
 # hi 
-#:bowtie:
+:bowtie:
 currently learning python based machine learning algorithms
 - [ ] employed
 > discord: 7techy
