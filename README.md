@@ -1,7 +1,5 @@
 # hi 
 currently working on cybersecurity certifications
-> not employed
-\n
 > discord: 8techy
 <!--
 **1techy/1techy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
